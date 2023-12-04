@@ -3,7 +3,7 @@
 
 ## Continuous integration for a c++ application using Qt GitHub Action
 
-
+![qt_cpp_ci_cid_test_project](https://github.com/HemjalCF/qt_cpp_ci_cd_test/actions/workflows/test_ci.yml/badge.svg)
 -------------------------
 Environment:
 
